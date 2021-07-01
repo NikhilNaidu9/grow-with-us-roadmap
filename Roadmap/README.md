@@ -15,6 +15,7 @@
 1. Linux OS  
     1. How it is different from other operating system?
     1. How to install linux?
+    1. Docker
     1. Working with terminals  
     1. Working with commands 
     1. Working with files  
@@ -159,3 +160,18 @@
         1. Arduino 
         1. Raspberry Pi
     1. Yet to be completed
+1. Yet to be completed
+---
+# Day 0 - How to learn? 
+1. Problems Of Traditional Education
+    1. Socrates was killed because of asking questions
+    1. "Creativity is beaten out of us" - Sir Ken Robinson 
+    1. Banker Style Education doesn't work
+1. Become an autodidact
+    1. Stop Being Afraid, Don't depend on others
+    1. Role of Imagination and Creativity When Learning
+1. Read, Research, Execute
+1. Fail Faster, Fail Better, Fail Often
+1. Help Others Learn, A Social Responsibility
+1. Capture Thoughts as Markdown, The Syntax of Knowledge Source  
+1. Tribute to Aaron Swatz
