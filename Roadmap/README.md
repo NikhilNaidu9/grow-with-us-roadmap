@@ -175,3 +175,14 @@
 1. Help Others Learn, A Social Responsibility
 1. Capture Thoughts as Markdown, The Syntax of Knowledge Source  
 1. Tribute to Aaron Swatz
+
+# Day 1: Let's See How Computer Works?
+1. How to do basic things using computers
+1. Productivity Hacks
+1. Troubleshooting Problems
+1. What is software and hardware?
+1. Detailed information about the infrastructure of the computer
+    1. PC building
+1. How to see what is running on the computer?
+    1. How to use Task Manager?  
+1. Where everything lies on the computer? 
