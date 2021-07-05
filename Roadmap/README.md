@@ -185,6 +185,7 @@
 
 # Day 2: Let's See How Computer Works? Part 2
 1. How to do basic things using computers
+1. Disk Partition
 1. Productivity Hacks
 1. Troubleshooting Problems
 1. Where everything lies on the computer?
