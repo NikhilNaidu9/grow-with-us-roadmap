@@ -186,6 +186,14 @@
 # Day 2: Let's See How Computer Works? Part 2
 1. How to do basic things using computers
 1. Disk Partition
-1. Productivity Hacks
+1. Productivity Hacks   
 1. Troubleshooting Problems
 1. Where everything lies on the computer?
+
+# Day 3: Understanding Linux Approach
+1. What is Operating System?
+1. What is Linux? History of UNIX and GNU/Linux
+1. Does Mac use Linux?
+1. Does Windows use Linux?
+1. The Unix Philosophy?
+1. When and How Should I install Linux? 
