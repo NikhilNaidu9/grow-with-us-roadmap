@@ -197,3 +197,12 @@
 1. Does Windows use Linux?
 1. The Unix Philosophy?
 1. When and How Should I install Linux? 
+
+# Day 4: Working With Terminal 
+1. The Command Line, Fastest Human-Computer Interface
+1. Every Command Line Entered is a Line of Shell Code 
+1. Understand the Parts of the Command Prompt
+1. Navigate Your Command History Efficiently
+1. Send Special Terminal Escapes
+1. Cut and Paste from Host Operating System
+1. Learn Useful and Essential Beginning User Commands
