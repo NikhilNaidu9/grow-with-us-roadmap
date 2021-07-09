@@ -204,5 +204,4 @@
 1. Understand the Parts of the Command Prompt
 1. Navigate Your Command History Efficiently
 1. Send Special Terminal Escapes
-1. Cut and Paste from Host Operating System
 1. Learn Useful and Essential Beginning User Commands
